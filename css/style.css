@@ -46,6 +46,7 @@ header {height:181px;width:100%;overflow:hidden;background:url(../images/bg_head
 #menu .nav5 a:hover, #menu .nav5#menu_active a {background:url(../images/menu_nav5_bg.gif) top repeat-x}
 #menu .nav5 a:hover span, #menu .nav5#menu_active a span {background:url(../images/menu_nav5_left.gif) top left no-repeat}
 #menu .nav5 a:hover span span, #menu .nav5#menu_active a span span {background:url(../images/menu_nav5_right.gif) top right no-repeat}
+
 .text {font-size:20px;line-height:1.2em;color:#fff;padding:43px 0 0 45px;letter-spacing:-1px;float:left;width:340px;position:relative}
 .text p span {display:block;margin-top:-4px}
 .text p {padding-left:5px;padding-bottom:0px}
