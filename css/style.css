@@ -65,7 +65,7 @@ header {height:181px;width:100%;overflow:hidden;background:url(../images/bg_head
 #content2 {padding-bottom:49px;width:100%;overflow:hidden}
 .marg_right1 {margin-right:19px}
 .pad_bot1 {padding-bottom:6px}
-.pad_bot2 {padding-bottom:18px}
+.pad_bot2 {padding-bottom:1px}
 .pad_bot3 {padding-bottom:12px}
 .pad_top1 {padding-top:6px}
 .pad_left1 {padding-left:40px}
@@ -101,3 +101,4 @@ footer a:hover {}
 #ContactForm a {margin-left:2px;float:right}
 #ContactForm .input {width:230px;background:none;padding:6px 10px;font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#c0c0c0;height:15px;margin:0}
 #ContactForm textarea {overflow:auto;width:434px;background:none;padding:6px 10px;font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#c0c0c0;height:207px;margin:0}
+.code {background:#EEEEEE; font-family: Trebuchet MS; display:block; border:1px solid #999999; padding:10px;}
